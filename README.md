@@ -1,1 +1,1 @@
-## _Aqui um pouco da minha aula 1 de automação na Hashtag_
+## Aqui um pouco da minha aula 1 de automação na Hashtag
